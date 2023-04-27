@@ -34,3 +34,32 @@
   width: 100% !important;
 } */
 
+.btn{
+  display: flex !important;
+  
+}
+
+button{
+  background-color: skyblue;
+  height: 100px;
+  width: 300px;
+  border: 1px solid skyblue;
+  font-size: 25px !important;
+}
+button:hover{
+  background-color: grey !important;
+}
+.display-bg {
+  background-color: #e1e7f0;
+  height: 300px;
+  width: 100%;
+}
+
+.ll{
+  background-color: red !important;
+  height: 1000px;
+  width: 100%;
+}
+.gg{
+  margin-left: 90%;
+}
